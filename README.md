@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <Veasna3d/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <Veasna3d/>! <img src="https://github.com/Veasna3d/Veasna3d/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <div align="center" width="50">
 
@@ -13,7 +13,7 @@ Happy Coding! 😊
 
 <div align="center">
 
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+[![HitCount](http://hits.dwyl.com/Veasna3d/Veasna3d.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
 <i>Follow me:</i><br>
 
