@@ -1,11 +1,5 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <Veasna3d/>! <img src="https://github.com/Veasna3d/Veasna3d/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-<div align="center" width="50">
-
-<img src="https://imgur.com/GiM6w50.gif" alt="Welcome!" width="300"/>
-
-
-</div>
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
@@ -14,7 +8,6 @@ Happy Coding! 😊
 
 <div align="center">
 
-[![HitCount](http://hits.dwyl.com/Veasna3d/Veasna3d.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
 <i>Follow me:</i><br>
 
